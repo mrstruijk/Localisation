@@ -6,6 +6,9 @@
 - For: Leiden University SOSXR
 - Fully open source: Feel free to add to, or modify, anything you see fit.
 
+## Deprication notice:
+This tool will be depricated since Unity has a very powerful [Localisation Tool](https://docs.unity3d.com/Packages/com.unity.localization@1.5/manual/QuickStartGuide.html) available. 
+
 ## Installation
 1. Open the Unity project you want to install this package in.
 2. Open the Package Manager window.
